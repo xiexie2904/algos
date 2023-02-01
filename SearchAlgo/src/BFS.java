@@ -51,8 +51,9 @@ public class BFS {
 
 
 
-//        data testing
-//        vertex - edge
+//        dữ liệu test
+//        2 số dòng đầu tiên là số đỉnh và số cạnh
+
 //        4 6
 //        0 1
 //        0 2
